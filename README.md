@@ -1,4 +1,4 @@
 # HTML
 
 ## <map></map>
-[<map/>](./map/map.html)
+['<map/>'](./map/map.html)
